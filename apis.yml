@@ -39,7 +39,6 @@ apis:
   - name: Econdb
     description: "Global macroeconomic data"
     humanURL: https://www.econdb.com/api/
-    baseURL: https://www.econdb.com/api/
     tags:
       - Finance
     properties:
